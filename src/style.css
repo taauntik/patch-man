@@ -1,0 +1,16 @@
+.url-bar__wrapper .url-bar__input {
+    flex: 1;
+    font-size: inherit;
+    padding: 10px 10px;
+}
+
+.url-bar__wrapper select {
+    width : 100px;
+    font-size: inherit;
+}
+
+.url-bar__wrapper {
+    display: flex;
+    margin-inline: 80px;
+    font-size : 18px
+}
